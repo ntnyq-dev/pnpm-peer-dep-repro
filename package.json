@@ -1,0 +1,15 @@
+{
+  "name": "pnpm-test",
+  "peerDependencies": {
+    "vuepress": "2.0.0-beta.61",
+    "vuepress-vite": "2.0.0-beta.61"
+  },
+  "peerDependenciesMeta": {
+    "vuepress": {
+      "optional": true
+    }
+  },
+  "dependencies": {
+    "vuepress": "2.0.0-beta.61"
+  }
+}
